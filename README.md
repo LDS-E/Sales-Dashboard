@@ -1,2 +1,2 @@
 # Sales-Dashboard
-Sales dashboard in the development process for clients seeking to optimize their KPIs
+Sales dashboard (in development process) for clients seeking to optimize their KPIs
